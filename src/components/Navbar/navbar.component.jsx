@@ -13,7 +13,7 @@ const NavSm = () => {
         <div>
           <h3 className="text-xl font-bold">It All starts Here!</h3>
           <span className="text-gray-400 text-xs flex items-center">
-            Bengaluru <BiChevronRight />
+            Chandigarh <BiChevronRight />
           </span>
         </div>
         <div className="w-8 h-8">

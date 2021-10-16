@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        pavan: {
+        ankush: {
           50: "#ffe8e8",
           100: "#f3c1c3",
           200: "#e5999c",
